@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="none"
+        android:id="@+id/group_settings">
+        <item android:id="@+id/nav_main"
+            android:title="阅读新闻"/>
+        <item android:id="@+id/nav_record"
+            android:title="历史记录"/>
+        <item android:id="@+id/nav_collect"
+            android:title="我的收藏"/>
+
+
+    </group>
+</menu>
